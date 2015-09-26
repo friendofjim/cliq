@@ -1,4 +1,4 @@
-# sfdc-cli
+# sfdc_cli
 
 When it comes to Salesforce.com data loads, the command line is your friend. You can use it to access SFDC APIs while taking advantage of your computer's native functions. It's fun, it's free, and it's schedulable.
 
