@@ -8,4 +8,4 @@ Please note that this setup is optimized to run on Linux and Unix systems. If yo
 
 Have some awesomeness to contribute? Create a branch!
 
-One more thing: As you're getting started, I recommend heading over to https://code.google.com/p/dataloadercliq/ - Vijay Swamidass has provided the basic framework for setting up your CLI to work with data loads. His CLIq (Command Line Interface Quickstart) scripts automatically generate the basic files for you. He also provides a forum for bugs and user feedback.
+As you're getting started, I recommend heading over to https://code.google.com/p/dataloadercliq/ - Vijay Swamidass has provided the basic framework for setting up your CLI to work with data loads. His CLIq (Command Line Interface Quickstart) scripts automatically generate the basic files for you. He also provides a forum for bugs and user feedback.
