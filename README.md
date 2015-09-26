@@ -1,4 +1,4 @@
-# sfdc cli
+# sfdc-cli
 
 When it comes to Salesforce.com data loads, the command line is your friend. It's a native function of your computer; the CLI interface uses native Salesforce.com data loader APIs; and it's fun.
 
